@@ -9,8 +9,6 @@ VitaStand is a kickstand for 1000 series PlayStation Vitas with the remote play 
 
 ![Imgur Image](https://i.imgur.com/UuyLK0n.jpg)
 
-![Imgur Image](https://i.imgur.com/9DYIWyb.jpg)
-
 ![Imgur Image](https://i.imgur.com/lJDdReO.jpg)
 
 ![Imgur Image](https://i.imgur.com/35Nehed.jpg)
