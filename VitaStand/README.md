@@ -7,7 +7,7 @@ VitaStand is a kickstand for 1000 series PlayStation Vitas with the remote play 
 
 [Click here to see it in action!](https://i.imgur.com/oPS7BB3.gifv)
 
-If you have a 3D printer you may print it yourself otherwise you can order from my Shapeways store.
+If you have a 3D printer you may print it yourself otherwise you can order from my [Shapeways store](https://www.shapeways.com/shops/mw-s-electronics). Shapeways is very expensive though you've been warned.
 
 ![Imgur Image](https://i.imgur.com/UuyLK0n.jpg)
 
