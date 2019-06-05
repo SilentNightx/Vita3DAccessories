@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="VitaStand v2.png"</img> 
+    <img src="VitaStand.png"</img> 
 </div>
 
 # VitaStand v2
